@@ -1,6 +1,6 @@
 Jorden LeMarr
 
-["Hello World!"](https://jlemarr.github.io/Coding-work/HW-3/index.html/)
+["Hello World!"](https://jlemarr.github.io/Coding-work/HW-3/)
 
 # Homework 3
 
