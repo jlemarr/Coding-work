@@ -11,11 +11,11 @@ function draw () {
   push();
 
 //Move canvas
-Translate(300, 200);
+translate(300, 200);
 
 //body
 push();
-nostroke();
+noStroke();
 fill( 'rgb(119, 8, 8)' );
 rect(-50, 75, 100, 250);
 
